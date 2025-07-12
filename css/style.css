@@ -3,6 +3,10 @@
     padding: 0px;
 }
 
+img {
+    width: 100%;
+}
+
 .header {
     background-color: rgb(53, 53, 53);
     text-align: center;
@@ -11,4 +15,16 @@
 
 .header img {
     width: 100px;
+}
+
+.stats {
+    margin-top: 50px;
+}
+
+.stats h3 {
+    text-align: center;
+}
+
+.stats img {
+    width: 100%;
 }
